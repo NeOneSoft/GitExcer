@@ -30,3 +30,14 @@ class Dog:
     def __init__(self, breed, gender):
         self.breed = breed
         self.gender = gender
+
+
+"""
+Define Class Sudent
+"""
+
+
+class Sudent:
+    def __init__(self, name, career):
+        self.name = name
+        self.gender = career
