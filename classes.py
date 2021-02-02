@@ -19,3 +19,14 @@ class Car:
         self.brand = brand
         self.model = model
         self.year = year
+
+
+"""
+Define Class Dog
+"""
+
+
+class Dog:
+    def __init__(self, breed, gender):
+        self.breed = breed
+        self.gender = gender
